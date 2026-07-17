@@ -13,7 +13,6 @@ I enjoy building full-stack applications, AI-powered solutions, and interactive 
 - 🧪 Learning Software Testing
 - 🌱 Building real-world projects to strengthen my development skills
 - 🎯 Looking for Software Developer opportunities
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
