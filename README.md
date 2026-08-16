@@ -118,4 +118,13 @@ A multi-level Brick Breaker game developed with Unity and C#.
 
 I enjoy working on projects that combine **software development, AI-assisted applications, data-driven systems, testing, and interactive experiences**. My focus is on learning by building practical projects and continuously improving their reliability and usability.
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeswanth90630&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeswanth90630&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
 
