@@ -16,28 +16,17 @@ I enjoy building full-stack applications, AI-powered solutions, and interactive 
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- Java
-- Python
-- JavaScript
-- C#
-- C
+### 💻 Programming
+Java • Python • C • JavaScript • C#
 
-### 🎨 Frontend
-- HTML5
-- CSS3
-- React
+### 🌐 Web Development
+HTML • CSS • React • Node.js • Flask
 
-### ⚙️ Backend
-- Node.js
-- Flask
+### 🗄️ Databases
+MySQL • MongoDB
 
-### 🗄️ Database
-- MySQL
-- MongoDB
+### 🧪 Software Testing
+Manual Testing • Test Cases • Bug Reporting • SDLC • STLC
 
-### 🧰 Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Unity
+### 🧰 Tools
+Git • GitHub • VS Code • Unity
